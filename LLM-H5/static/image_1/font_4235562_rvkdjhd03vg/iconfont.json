@@ -1,0 +1,93 @@
+{
+  "id": "4235562",
+  "name": "icon_2",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "11385088",
+      "name": "外科",
+      "font_class": "waike",
+      "unicode": "e716",
+      "unicode_decimal": 59158
+    },
+    {
+      "icon_id": "11062679",
+      "name": "化验科",
+      "font_class": "huayanke",
+      "unicode": "e6ca",
+      "unicode_decimal": 59082
+    },
+    {
+      "icon_id": "11063199",
+      "name": "眼科",
+      "font_class": "yanke---",
+      "unicode": "e6cd",
+      "unicode_decimal": 59085
+    },
+    {
+      "icon_id": "11065153",
+      "name": "皮肤科",
+      "font_class": "pifuke---",
+      "unicode": "e6d7",
+      "unicode_decimal": 59095
+    },
+    {
+      "icon_id": "11066221",
+      "name": "全科",
+      "font_class": "quanke-",
+      "unicode": "e6db",
+      "unicode_decimal": 59099
+    },
+    {
+      "icon_id": "11066700",
+      "name": "内科",
+      "font_class": "neike-",
+      "unicode": "e6dc",
+      "unicode_decimal": 59100
+    },
+    {
+      "icon_id": "11075806",
+      "name": "儿科",
+      "font_class": "erke---",
+      "unicode": "e6e2",
+      "unicode_decimal": 59106
+    },
+    {
+      "icon_id": "11076785",
+      "name": "脑科",
+      "font_class": "naoke-",
+      "unicode": "e6e5",
+      "unicode_decimal": 59109
+    },
+    {
+      "icon_id": "11077318",
+      "name": "整形科",
+      "font_class": "zhengxingke--",
+      "unicode": "e6e7",
+      "unicode_decimal": 59111
+    },
+    {
+      "icon_id": "11078356",
+      "name": "内分泌科",
+      "font_class": "tubiao_-",
+      "unicode": "e6eb",
+      "unicode_decimal": 59115
+    },
+    {
+      "icon_id": "1163149",
+      "name": "定位",
+      "font_class": "dingwei",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "33986996",
+      "name": "消息-置灰",
+      "font_class": "xiaoxi-zhihui",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    }
+  ]
+}

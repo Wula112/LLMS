@@ -1,0 +1,63 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 4235562 */
+   src: url('https://at.alicdn.com/t/c/font_4235562_gmmcg64pf7j.woff2?t=1693744867502') format('woff2'),
+         url('https://at.alicdn.com/t/c/font_4235562_gmmcg64pf7j.woff?t=1693744867502') format('woff'),
+         url('https://at.alicdn.com/t/c/font_4235562_gmmcg64pf7j.ttf?t=1693744867502') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-waike:before {
+  content: "\e716";
+}
+
+.icon-huayanke:before {
+  content: "\e6ca";
+}
+
+.icon-yanke---:before {
+  content: "\e6cd";
+}
+
+.icon-pifuke---:before {
+  content: "\e6d7";
+}
+
+.icon-quanke-:before {
+  content: "\e6db";
+}
+
+.icon-neike-:before {
+  content: "\e6dc";
+}
+
+.icon-erke---:before {
+  content: "\e6e2";
+}
+
+.icon-naoke-:before {
+  content: "\e6e5";
+}
+
+.icon-zhengxingke--:before {
+  content: "\e6e7";
+}
+
+.icon-tubiao_-:before {
+  content: "\e6eb";
+}
+
+.icon-dingwei:before {
+  content: "\e633";
+}
+
+.icon-xiaoxi-zhihui:before {
+  content: "\e61d";
+}
+
